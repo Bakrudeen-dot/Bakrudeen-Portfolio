@@ -1,5 +1,5 @@
 # Bakrudeen-Portfolio
-Fullstack developer
+Fullstack developer and Wordpress
 
 # Bakrudeen J - Full Stack Developer
 
